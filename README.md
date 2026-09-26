@@ -8,7 +8,7 @@ for the *Artificial Intelligence* course (B.Sc. in Mathematical Engineering, UAX
 > **Note on the data:** the dataset is **synthetic** (50,001 records generated with
 > realistic epidemiological criteria for the course). It contains no real patient
 > data, and the raw CSVs are not redistributed here. The schema is documented in
-> [`data/metadata.md`](data/metadata.md).
+> [`data/metadata.md`](metadata.md).
 
 ## Problem
 
